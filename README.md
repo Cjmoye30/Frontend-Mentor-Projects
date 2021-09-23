@@ -16,24 +16,21 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- See hover states for interactive elements
+Your challenge is to build out this order summary card component and get it looking as close to the design as possible.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 ### Screenshot
 
-![images/Completed - Order Summary Page Screenshot.png]()
+![image](https://github.com/Cjmoye30/Frontend-Mentor-Projects/issues/1#issue-1005726127)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ## My process
 
