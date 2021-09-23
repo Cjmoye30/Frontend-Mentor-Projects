@@ -26,7 +26,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![image](https://github.com/Cjmoye30/Frontend-Mentor-Projects/issues/1#issue-1005726127)
+![image](https://user-images.githubusercontent.com/90322735/134563022-7084dbe9-e8f9-42d6-9a14-6a3c8505e541.png)
 
 ### Links
 
