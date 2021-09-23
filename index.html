@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Order Summary Page</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+  <div class="card orderSummary">
+
+    <!-- Card Image Section-->
+    <img class="card-picture" src="images/illustration-hero.svg" alt="">
+
+    <!-- Section to house the entire payment card -->
+    <div class="card-body">
+
+      <!-- Heading text and message Section -->
+      <div class="summary-message">
+        <h1 class="card-title">Order Summary</h1>
+        <p class="card-text">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+      </div>
+
+      <!-- Selected Plan Section -->
+      <div class="card selectedPlan">
+
+        <div class="row align-items-center">
+          <div class="col">
+            <img class="icon-music" src="images/icon-music.svg" alt="">
+          </div>
+
+          <div class="col-6 plan-info">
+            <h5>Annual Plan</h5>
+            <p>$59.99/>year</p>
+          </div>
+
+          <div class="col">
+            <a class="change-link" href="#">Change</a>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Closing Actions -->
+
+      <button type="button" class="btn btn-primary btn-lg btn-block payment-button">Proceed to Payment</button>
+      <br>
+      <a class="cancel-link" href="#">Cancel Order</a>
+
+    </div>
+
+  </div>
+
+  <div class="closing-thanks">
+    <h6>Created by: <span class="signature">Cambric Moye</span></h6>
+    <a href="https://www.linkedin.com/in/cambric-moye-30/">LinkedIn</a>
+  </div>
+
+</body>
+
+</html>
