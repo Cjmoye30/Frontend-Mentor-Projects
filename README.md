@@ -30,7 +30,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+- Live Site URL: [Order Summary Component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ## My process
 
